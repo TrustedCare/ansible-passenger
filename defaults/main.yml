@@ -1,4 +1,4 @@
 ---
-passenger_webserver: "standalone"
+passenger_webserver: "apache"
 passenger_pkgs_state: "installed"
 passenger_pkgs_fix_shebang: no
